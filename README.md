@@ -1,0 +1,1 @@
+#Adds a new column to the admin list of attendees when you are using [Event Tickets Plus Plugin](https://theeventscalendar.com/product/wordpress-event-tickets-plus/) on your Wordpress site. 
